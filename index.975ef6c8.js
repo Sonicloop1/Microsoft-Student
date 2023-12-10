@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "Ethan.goizman@studentambassadors.com",
     gitHub: "https://github.com/Sonicloop1",
     instagram: "",
-    linkedIn: "www.linkedin.com/in/ethan-goizman-a548962a2",
+    linkedIn: "https://www.linkedin.com/in/ethan-goizman-a548962a2/ethan-goizman-a548962a2",
     medium: "",
     twitter: "",
     youTube: "http://www.youtube.com/@sonicloop0816"
